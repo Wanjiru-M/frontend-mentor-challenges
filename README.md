@@ -1,7 +1,7 @@
 # Solutions to the Frontend Mentor Challenges
 A solutions repository for the frontend mentor challenges
 
-##List of the projects
+## List of the projects
 
 | Project Name | Repository Link |
 |--------------|-----------------|
