@@ -40,18 +40,25 @@ h2{
 }
 /*Utilities*/
 .container{
-    border-radius: 5px;
      max-width: 730px;
     overflow: hidden;
     max-height: fit-content;
-    background: var(--primary-color);   
     padding-right: 60px;
     padding-left: 60px;
     padding-top: 30px;
     padding-bottom: 20px;
     margin:auto;
 }
-
+main{
+    background-color: var(--primary-color);
+    border-radius: 10px;
+    max-width: 70ch;
+    margin-left: 150px;
+} 
+.rounded-corner-container{
+    border-radius: 50px;
+    background-color: brown;
+}
 /*Image*/
 .intro img{
     max-width: 47vw;
