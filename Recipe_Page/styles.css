@@ -51,7 +51,7 @@ h2{
 }
 main{
     background-color: var(--primary-color);
-    border-radius: 10px;
+border-radius: 15px;
     max-width: 70ch;
     margin-left: 150px;
 } 
@@ -64,7 +64,7 @@ main{
     max-width: 47vw;
     height: auto;
      margin-right: 30px;
-    margin-left: -8px;
+    margin-left: -17px;
     border-radius: 16px;
     margin-bottom: 1rem;
 }
