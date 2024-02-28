@@ -19,8 +19,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: https://github.com/Wanjiru-M/frontend-mentor-challenges/Recipe_Page/
-- Live Site URL: https://github.com/Wanjiru-M/frontend-mentor-challenges/Recipe_Page/
+- Solution URL: https://github.com/Wanjiru-M/frontend-mentor-challenges/tree/main/Recipe_Page/
+- Live Site URL: https://wanjiru-m.github.io/frontend-mentor-challenges/Recipe_Page/
 
 ## My process
 
