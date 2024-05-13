@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Wanjiru-M/frontend-mentor-challenges/tree/main/Social_Links_Profile
+- Live Site URL: https://wanjiru-m.github.io/frontend-mentor-challenges/Social_Links_Profile/
 
 ## My process
 
